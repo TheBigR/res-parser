@@ -1,0 +1,22 @@
+{
+  "name": "res-parser",
+  "version": "1.0.0",
+  "description": "just for training purposes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheBigR/res-parser.git"
+  },
+  "author": "Roy Nevo",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheBigR/res-parser/issues"
+  },
+  "homepage": "https://github.com/TheBigR/res-parser#readme",
+  "dependencies": {
+    "axios": "^0.27.2"
+  }
+}
